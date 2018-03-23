@@ -1,0 +1,172 @@
+
+
+通用模版-PC
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/module2.css"/>
+		<link rel="shortcut icon" href="http://ad.wayboo.net.cn/common/land-page/images/logo.ico" type="image/x-icon"/>
+		<link type="text/css" rel="stylesheet" href="http://ad.wayboo.net.cn/common/css/xr_head_foot.css"/>
+	</head>
+	<body>
+		<div id="html-content">
+			
+		</div>
+	</body>
+	<script src="http://ad.wayboo.net.cn/common/js/jquery.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://ad.wayboo.net.cn/common/js/loading-page.js" type="text/javascript" charset="utf-8"></script>
+	
+	<script id="qd2852155803d480d4898f9dbef146a6532bc5fce5b6" src="https://wp.qiye.qq.com/qidian/2852155803/d480d4898f9dbef146a6532bc5fce5b6" charset="utf-8" async defer></script>
+	<script id="qd28521558031521ab8c490f0a7a5ca091d1155fc6fe" src="https://wp.qiye.qq.com/qidian/2852155803/1521ab8c490f0a7a5ca091d1155fc6fe" charset="utf-8" async defer></script>
+	<script id="qd2852155803cb64150759a4403cb416f8d5fce97d4f" src="https://wp.qiye.qq.com/qidian/2852155803/cb64150759a4403cb416f8d5fce97d4f" charset="utf-8" async defer></script>
+	<script id="qd2852155803fe4dea8c1ebc0ac515caeb53b6a2be30" src="https://wp.qiye.qq.com/qidian/2852155803/fe4dea8c1ebc0ac515caeb53b6a2be30" charset="utf-8" async defer></script>
+	<script id="qd28521558030d6ab911edb91a46bd3b5e246fdaccab" src="https://wp.qiye.qq.com/qidian/2852155803/0d6ab911edb91a46bd3b5e246fdaccab" charset="utf-8" async defer></script>
+	
+	<script type="text/javascript">
+			loadPage();
+	</script>
+</html>
+
+
+通用模版 -移动
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>信融企业网</title>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/module2.css"/>
+		<link rel="shortcut icon" href="http://ad.wayboo.net.cn/common/land-page/images/logo.ico" type="image/x-icon"/>
+		<link type="text/css" rel="stylesheet" href="http://ad.wayboo.net.cn/common/css/xr_head_foot.css"/>
+	</head>
+	<body>
+		<div id="html-content">
+			
+		</div>
+	</body>
+	<script src="http://ad.wayboo.net.cn/common/js/jquery.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://ad.wayboo.net.cn/common/js/loading-page.js" type="text/javascript" charset="utf-8"></script>
+	<script id="qd2852155803d480d4898f9dbef146a6532bc5fce5b6" src="https://wp.qiye.qq.com/qidian/2852155803/d480d4898f9dbef146a6532bc5fce5b6" charset="utf-8" async defer></script>
+	<script id="qd28521558031521ab8c490f0a7a5ca091d1155fc6fe" src="https://wp.qiye.qq.com/qidian/2852155803/1521ab8c490f0a7a5ca091d1155fc6fe" charset="utf-8" async defer></script>
+	<script id="qd2852155803cb64150759a4403cb416f8d5fce97d4f" src="https://wp.qiye.qq.com/qidian/2852155803/cb64150759a4403cb416f8d5fce97d4f" charset="utf-8" async defer></script>
+	<script id="qd2852155803fe4dea8c1ebc0ac515caeb53b6a2be30" src="https://wp.qiye.qq.com/qidian/2852155803/fe4dea8c1ebc0ac515caeb53b6a2be30" charset="utf-8" async defer></script>
+	<script id="qd28521558030d6ab911edb91a46bd3b5e246fdaccab" src="https://wp.qiye.qq.com/qidian/2852155803/0d6ab911edb91a46bd3b5e246fdaccab" charset="utf-8" async defer></script>
+	
+	
+	<script type="text/javascript">
+			loadPage();
+	</script>
+</html>
+
+
+
+
+
+
+自定义模版-PC
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta name=renderer content=webkit>
+		<title>信融企业网</title>
+		<link rel="shortcut icon" href="http://ad.wayboo.net.cn/common/land-page/images/logo.ico" type="image/x-icon"/>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/swiper.min.css"/>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/index.css"/>
+		<link type="text/css" rel="stylesheet" href="http://ad.wayboo.net.cn/common/css/xr_head_foot.css"/>
+	</head>
+	<body>
+		<div id="html-content">
+			
+		</div>
+		<script src="http://ad.wayboo.net.cn/common/js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://ad.wayboo.net.cn/common/js/swiper.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://ad.wayboo.net.cn/common/js/loading-page.js" type="text/javascript" charset="utf-8"></script>
+	<script id="qd2852155803d480d4898f9dbef146a6532bc5fce5b6" src="https://wp.qiye.qq.com/qidian/2852155803/d480d4898f9dbef146a6532bc5fce5b6" charset="utf-8" async defer></script>
+	<script id="qd28521558031521ab8c490f0a7a5ca091d1155fc6fe" src="https://wp.qiye.qq.com/qidian/2852155803/1521ab8c490f0a7a5ca091d1155fc6fe" charset="utf-8" async defer></script>
+	<script id="qd2852155803cb64150759a4403cb416f8d5fce97d4f" src="https://wp.qiye.qq.com/qidian/2852155803/cb64150759a4403cb416f8d5fce97d4f" charset="utf-8" async defer></script>
+	<script id="qd2852155803fe4dea8c1ebc0ac515caeb53b6a2be30" src="https://wp.qiye.qq.com/qidian/2852155803/fe4dea8c1ebc0ac515caeb53b6a2be30" charset="utf-8" async defer></script>
+	<script id="qd28521558030d6ab911edb91a46bd3b5e246fdaccab" src="https://wp.qiye.qq.com/qidian/2852155803/0d6ab911edb91a46bd3b5e246fdaccab" charset="utf-8" async defer></script>
+	
+		
+	<script type="text/javascript">
+//			$("#html").html()
+		</script>
+		<script type="text/javascript">
+			loadPage();
+		</script>
+		<script type="text/javascript">
+			var swiper = new Swiper('.swiper-container', {
+	            pagination: '.swiper-pagination',
+	            paginationClickable: true,
+	            loop: false,
+	            speed: 600,
+	            autoplay: 1500,
+	            observer: true,
+				observeParents: true,
+				autoplayDisableOnInteraction : false,
+	            onTouchEnd: function() {
+	                swiper.startAutoplay();
+	            }
+	        });
+
+		</script>
+	</body>
+</html>
+
+
+自定义模版-移动
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta name=renderer content=webkit>
+		<title>信融企业网</title>
+		<link rel="shortcut icon" href="http://ad.wayboo.net.cn/common/land-page/images/logo.ico" type="image/x-icon"/>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/swiper.min.css"/>
+		<link rel="stylesheet" type="text/css" href="http://ad.wayboo.net.cn/common/land-page/css/index.css"/>
+		<link type="text/css" rel="stylesheet" href="http://ad.wayboo.net.cn/common/css/xr_head_foot.css"/>
+	</head>
+	<body>
+		<div id="html-content">
+			
+		</div>
+		<script src="http://ad.wayboo.net.cn/common/js/jquery.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://ad.wayboo.net.cn/common/js/swiper.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://ad.wayboo.net.cn/common/js/loading-page.js" type="text/javascript" charset="utf-8"></script>
+	<script id="qd2852155803d480d4898f9dbef146a6532bc5fce5b6" src="https://wp.qiye.qq.com/qidian/2852155803/d480d4898f9dbef146a6532bc5fce5b6" charset="utf-8" async defer></script>
+	<script id="qd28521558031521ab8c490f0a7a5ca091d1155fc6fe" src="https://wp.qiye.qq.com/qidian/2852155803/1521ab8c490f0a7a5ca091d1155fc6fe" charset="utf-8" async defer></script>
+	<script id="qd2852155803cb64150759a4403cb416f8d5fce97d4f" src="https://wp.qiye.qq.com/qidian/2852155803/cb64150759a4403cb416f8d5fce97d4f" charset="utf-8" async defer></script>
+	<script id="qd2852155803fe4dea8c1ebc0ac515caeb53b6a2be30" src="https://wp.qiye.qq.com/qidian/2852155803/fe4dea8c1ebc0ac515caeb53b6a2be30" charset="utf-8" async defer></script>
+	<script id="qd28521558030d6ab911edb91a46bd3b5e246fdaccab" src="https://wp.qiye.qq.com/qidian/2852155803/0d6ab911edb91a46bd3b5e246fdaccab" charset="utf-8" async defer></script>
+	
+		
+		<script type="text/javascript">
+//			$("#html").html()
+		</script>
+		<script type="text/javascript">
+			loadPage();
+		</script>
+		<script type="text/javascript">
+			var swiper = new Swiper('.swiper-container', {
+	            pagination: '.swiper-pagination',
+	            paginationClickable: true,
+	            loop: false,
+	            speed: 600,
+	            autoplay: 1500,
+	            observer: true,
+				observeParents: true,
+				autoplayDisableOnInteraction : false,
+	            onTouchEnd: function() {
+	                swiper.startAutoplay();
+	            }
+	        });
+
+		</script>
+	</body>
+</html>

@@ -1,0 +1,98 @@
+style="cursor: pointer;"
+$.ajax({
+	type:"post",
+	url:"http://up.imgapi.com/",
+	data:formData,
+	cache: false,
+    contentType: false,
+    processData: false,
+    success: function(data){
+		console.log(data);
+		 get_data(this.result,formData); 
+	},
+    error: function(data){
+		console.log(data);
+	},
+});
+
+//          query: {
+//              name: 'aa', 
+//              dataObj: this.tel
+//          }
+
+
+   this.$xhr.post('/page/findPages', {
+	    "cid": _this.indexData.c_id,
+		"orderId":_this.indexData.network_id,
+	})
+	.then(function (response) {
+	    console.log(response);
+	})
+    .catch(function (error) {
+    	console.log(error);
+    });
+    
+
+	<div id="radio237" style="float: none;width: auto;background: none;position: unset;
+	border: none;border-radius: none;height: auto;transition: none;">
+		<textarea class="newTextbox" name="remark237" onfocus="javascript:if(this.value=='反应情况')this.value='';" 
+		style="font-size: 14px;background: #fff;color: #737475;position: unset;width: 100%;border: 1px solid #ccc;
+		padding: 0;height: auto;left: 0;top: 0;"></textarea>
+	</div>
+
+
+
+
+
+
+
+
+<!-- WPA start -->
+<script id="qd2852155803d480d4898f9dbef146a6532bc5fce5b6" src="https://wp.qiye.qq.com/qidian/2852155803/d480d4898f9dbef146a6532bc5fce5b6" charset="utf-8" async defer></script>
+<!-- WPA end -->
+
+id="ghjkl321456"
+
+
+++++++++++++++++++++
+
+<!-- WPA start -->
+<script id="qd28521558031521ab8c490f0a7a5ca091d1155fc6fe" src="https://wp.qiye.qq.com/qidian/2852155803/1521ab8c490f0a7a5ca091d1155fc6fe" charset="utf-8" async defer></script>
+<!-- WPA end -->
+
+
+id="ghjkl"
+
+
+++++++++++++++++++++++++
+
+<!-- WPA start -->
+<script id="qd2852155803cb64150759a4403cb416f8d5fce97d4f" src="https://wp.qiye.qq.com/qidian/2852155803/cb64150759a4403cb416f8d5fce97d4f" charset="utf-8" async defer></script>
+<!-- WPA end -->
+
+id="mnbvc"
+
+++++++++++++++++++++++++++
+
+
+<!-- WPA start -->
+<script id="qd2852155803fe4dea8c1ebc0ac515caeb53b6a2be30" src="https://wp.qiye.qq.com/qidian/2852155803/fe4dea8c1ebc0ac515caeb53b6a2be30" charset="utf-8" async defer></script>
+<!-- WPA end -->
+
+
+id="qwertyuiop"
+
+
+
+
+
+
+
++++++++++++++++++++++++++++
+
+<!-- WPA start -->
+<script id="qd28521558030d6ab911edb91a46bd3b5e246fdaccab" src="https://wp.qiye.qq.com/qidian/2852155803/0d6ab911edb91a46bd3b5e246fdaccab" charset="utf-8" async defer></script>
+<!-- WPA end -->
+
+
+id="asdfg"
